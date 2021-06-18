@@ -1,5 +1,10 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: powerbutton -> off
+#email: ntoncheff@outlook.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A place to share some research and ideas.
+  If you turn it off, its much more secure.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://0x4e54.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "0x4e54"
+github_username:  "0x4e54"
 theme: jekyll-theme-hacker
