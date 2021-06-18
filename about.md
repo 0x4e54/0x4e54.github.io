@@ -5,9 +5,13 @@ permalink: /about/
 ---
 
 
-# A little something about me
+# A little bit about me
 
-> I've probably sat here trying to think of things to write in here for far too long... I'm into a lot of things but this site is focused on my time spent on information security and sharing some of things i've found interesting along the way. I spun up this minimal site and will continue to adjust it as time goes on. Some info about the theme and setup below. Cheers - Nick
+> I've probably sat here trying to think of things to write in here for far too long... this site is going to be focused on my time spent in the wild and (sometimes) wonderful world of pentesting/information security and sharing some of things i've found interesting along the way. I spun up this minimal site and will continue to adjust it as time goes on, its a work in progress so bear with me. ;)
+> 
+> Some info about the theme and setup below. 
+> 
+> Cheers - Nick
 
 ## Site build info
 
