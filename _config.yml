@@ -29,7 +29,7 @@ twitter_username: "0x4e54"
 github_username:  "0x4e54"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-potato-hacker
 plugins:
   - jekyll-feed
 
