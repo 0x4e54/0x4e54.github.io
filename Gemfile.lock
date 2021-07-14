@@ -7,7 +7,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     coffee-script (2.4.1)
       coffee-script-source
@@ -183,7 +183,6 @@ GEM
     jekyll-theme-modernist (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-potato-hacker (1.0.2)
     jekyll-theme-primer (0.5.4)
       jekyll (> 3.5, < 5.0)
       jekyll-github-metadata (~> 2.9)
@@ -266,9 +265,10 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  addressable (~> 2.8)
   github-pages (~> 215)
   jekyll-feed (~> 0.12)
-  jekyll-theme-potato-hacker
+  minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
