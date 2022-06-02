@@ -17,7 +17,7 @@ gem "github-pages", "~> 215", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'addressable', '~> 2.8'
-  gem 'nokogiri', '~>1.13.5'
+  gem 'nokogiri', '~>1.13.6'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
